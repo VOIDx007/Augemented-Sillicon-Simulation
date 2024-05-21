@@ -1,0 +1,71 @@
+PMID- 20622862
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20101027
+LR  - 20211020
+IS  - 1476-4660 (Electronic)
+IS  - 1476-1122 (Linking)
+VI  - 9
+IP  - 9
+DP  - 2010 Sep
+TI  - A perpendicular-anisotropy CoFeB-MgO magnetic tunnel junction.
+PG  - 721-4
+LID - 10.1038/nmat2804 [doi]
+AB  - Magnetic tunnel junctions (MTJs) with ferromagnetic electrodes possessing a 
+      perpendicular magnetic easy axis are of great interest as they have a potential 
+      for realizing next-generation high-density non-volatile memory and logic chips 
+      with high thermal stability and low critical current for current-induced 
+      magnetization switching. To attain perpendicular anisotropy, a number of material 
+      systems have been explored as electrodes, which include 
+      rare-earth/transition-metal alloys, L1(0)-ordered (Co, Fe)-Pt alloys and Co/(Pd, 
+      Pt) multilayers. However, none of them so far satisfy high thermal stability at 
+      reduced dimension, low-current current-induced magnetization switching and high 
+      tunnel magnetoresistance ratio all at the same time. Here, we use interfacial 
+      perpendicular anisotropy between the ferromagnetic electrodes and the tunnel 
+      barrier of the MTJ by employing the material combination of CoFeB-MgO, a system 
+      widely adopted to produce a giant tunnel magnetoresistance ratio in MTJs with 
+      in-plane anisotropy. This approach requires no material other than those used in 
+      conventional in-plane-anisotropy MTJs. The perpendicular MTJs consisting of 
+      Ta/CoFeB/MgO/CoFeB/Ta show a high tunnel magnetoresistance ratio, over 120%, high 
+      thermal stability at dimension as low as 40 nm diameter and a low switching 
+      current of 49 microA.
+FAU - Ikeda, S
+AU  - Ikeda S
+FAU - Miura, K
+AU  - Miura K
+FAU - Yamamoto, H
+AU  - Yamamoto H
+FAU - Mizunuma, K
+AU  - Mizunuma K
+FAU - Gan, H D
+AU  - Gan HD
+FAU - Endo, M
+AU  - Endo M
+FAU - Kanai, S
+AU  - Kanai S
+FAU - Hayakawa, J
+AU  - Hayakawa J
+FAU - Matsukura, F
+AU  - Matsukura F
+FAU - Ohno, H
+AU  - Ohno H
+LA  - eng
+PT  - Letter
+DEP - 20100711
+PL  - England
+TA  - Nat Mater
+JT  - Nature materials
+JID - 101155473
+CIN - Nat Mater. 2010 Sep;9(9):699-700. PMID: 20733605
+EDAT- 2010/07/14 06:00
+MHDA- 2010/07/14 06:01
+CRDT- 2010/07/13 06:00
+PHST- 2010/04/13 00:00 [received]
+PHST- 2010/06/16 00:00 [accepted]
+PHST- 2010/07/13 06:00 [entrez]
+PHST- 2010/07/14 06:00 [pubmed]
+PHST- 2010/07/14 06:01 [medline]
+AID - nmat2804 [pii]
+AID - 10.1038/nmat2804 [doi]
+PST - ppublish
+SO  - Nat Mater. 2010 Sep;9(9):721-4. doi: 10.1038/nmat2804. Epub 2010 Jul 11.
